@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I design and develop data engineering pipelines from scratch with event-driven distributed serverless infrastructure. I like to learn new languages,technologies and tools. Then, compare them with existing ones and upgrade my projects✨. 
+
+I'm always excited about new projects, collaborations, and creative challenges and do checkout [sumedhaasanjeevan.com](http://sumedhaasanjeevan.com/)!💬 
+
+
 <!--
 **misticorion/misticorion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
